@@ -60,3 +60,7 @@ We will format the git commit message the following way: <br>
 | style    | :art: `:art:`                                   |
 | chore    | :robot: `:robot:`                               |
 | perf     | :zap: `:zap:`                                   |
+
+## References:
+- https://github.com/ikatyang/emoji-cheat-sheet#place-building
+- https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
