@@ -46,20 +46,21 @@ We will format the git commit message the following way: <br>
 
 ## Supported Emojis by Commit Message Types
 
-| Type     | Emoji                                           |
-| -------- | ----------------------------------------------- |
-| feat     | :confetti_ball: `:confetti_ball:`               |
-| fix      | :bug: `:bug:`                                   |
-| docs     | :books: `:books:`                               |
-| refactor | :recycle: `:recycle:`                           |
-| build    | :construction_worker: `:construction_worker:`   |
-| dep up   | :arrow_up: `:arrow_up:`                         |
-| dep down | :arrow_down: `:arrow_down:`                     |
-| test     | :white_check_mark: `:white_check_mark:`         |
-| ci       | :green_heart: `:green_heart:`                   |
-| style    | :art: `:art:`                                   |
-| chore    | :robot: `:robot:`                               |
-| perf     | :zap: `:zap:`                                   |
+| Type     | Emoji                                             |
+| -------- | -----------------------------------------------   |
+| feat     | :confetti_ball: `:confetti_ball:`                 |
+| fix      | :bug: `:bug:`                                     |
+| docs     | :books: `:books:`                                 |
+| refactor | :recycle: `:recycle:`                             |
+| build    | :construction_worker: `:construction_worker:`     |
+| dep      | :eight_spoked_asterisk: `:eight_spoked_asterisk:` |
+| dep up   | :arrow_up: `:arrow_up:`                           |
+| dep down | :arrow_down: `:arrow_down:`                       |
+| test     | :white_check_mark: `:white_check_mark:`           |
+| ci       | :green_heart: `:green_heart:`                     |
+| style    | :art: `:art:`                                     |
+| chore    | :robot: `:robot:`                                 |
+| perf     | :zap: `:zap:`                                     |
 
 ## References:
 - https://github.com/ikatyang/emoji-cheat-sheet#place-building
